@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ATS.Backend.Controllers.CandidatosController",
+    "Method": "Get",
+    "RelativePath": "api/Candidatos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ATS.Backend.Controllers.CandidatosController",
+    "Method": "Create",
+    "RelativePath": "api/Candidatos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidato",
+        "Type": "ATS.Backend.Models.Candidato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ATS.Backend.Controllers.CandidatosController",
+    "Method": "GetById",
+    "RelativePath": "api/Candidatos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ATS.Backend.Controllers.CandidatosController",
+    "Method": "Update",
+    "RelativePath": "api/Candidatos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "candidato",
+        "Type": "ATS.Backend.Models.Candidato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ATS.Backend.Controllers.CandidatosController",
+    "Method": "Delete",
+    "RelativePath": "api/Candidatos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

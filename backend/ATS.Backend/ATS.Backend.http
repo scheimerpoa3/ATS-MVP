@@ -1,0 +1,6 @@
+@ATS.Backend_HostAddress = http://localhost:5243
+
+GET {{ATS.Backend_HostAddress}}/
+Accept: application/json
+
+###

@@ -1,0 +1,211 @@
+{
+	"info": {
+		"_postman_id": "a67a9c45-7f20-488d-a624-baf81d310204",
+		"name": "Testes_ATS-MVP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11529532"
+	},
+	"item": [
+		{
+			"name": "Listar todos os candidatos",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code é 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Retorno é um array\", function () {\r",
+							"    const json = pm.response.json();\r",
+							"    pm.expect(json).to.be.an('array');\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/candidatos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"candidatos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Criar um candidato",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"{\r",
+							"    \"nome\": \"Teste ATS\",\r",
+							"    \"email\": \"teste@ats.com\",\r",
+							"    \"telefone\": \"11999999999\",\r",
+							"    \"cargoDesejado\": \"Desenvolvedor\"\r",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Teste ATS\",\r\n    \"email\": \"teste@ats.com\",\r\n    \"telefone\": \"11999999999\",\r\n    \"cargoDesejado\": \"Desenvolvedor\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/candidatos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"candidatos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Cadastro",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Teste ATS Atualizado\",\r\n    \"email\": \"teste@ats.com\",\r\n    \"telefone\": \"11988888888\",\r\n    \"cargoDesejado\": \"Desenvolvedor Sênior\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/candidatos/{{idCandidato}}",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"candidatos",
+						"{{idCandidato}}"
+					]
+				},
+				"description": "Atualizar candidato"
+			},
+			"response": []
+		},
+		{
+			"name": "Excluir Cadastro",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/candidatos/?idCandidato=691aa7655768196ce5393e44",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"candidatos",
+						""
+					],
+					"query": [
+						{
+							"key": "idCandidato",
+							"value": "691aa7655768196ce5393e44"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar por Id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/candidatos/?idCandidato=691a77336052eb49ba5ff871",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"candidatos",
+						""
+					],
+					"query": [
+						{
+							"key": "idCandidato",
+							"value": "691a77336052eb49ba5ff871"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

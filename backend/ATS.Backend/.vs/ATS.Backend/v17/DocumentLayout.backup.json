@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5223640-E98F-D72F-D236-472AECD8E61D}|..\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend.tests\\ats.backend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5223640-E98F-D72F-D236-472AECD8E61D}|..\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend.tests\\candidatoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\controllers\\candidatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:controllers\\candidatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\dtos\\candidatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:dtos\\candidatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\models\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:models\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\ats.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:ats.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|c:\\projetos\\ats-mvptotvs\\backend\\ats.backend\\ats.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{706C17F6-C70B-58B1-6A19-6F271AAB3B06}|ATS.Backend.csproj|solutionrelative:ats.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Services\\MongoService.cs",
+              "RelativeDocumentMoniker": "Services\\MongoService.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Services\\MongoService.cs",
+              "RelativeToolTip": "Services\\MongoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:23:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidatosControllerTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend.Tests\\CandidatosControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ATS.Backend.Tests\\CandidatosControllerTests.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend.Tests\\CandidatosControllerTests.cs",
+              "RelativeToolTip": "..\\ATS.Backend.Tests\\CandidatosControllerTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:29:11.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Models\\Candidato.cs",
+              "RelativeDocumentMoniker": "Models\\Candidato.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Models\\Candidato.cs",
+              "RelativeToolTip": "Models\\Candidato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:55:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidatoDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Dtos\\CandidatoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CandidatoDto.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Dtos\\CandidatoDto.cs",
+              "RelativeToolTip": "Dtos\\CandidatoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:09:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T23:16:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATS.Backend.Tests",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj",
+              "RelativeToolTip": "..\\ATS.Backend.Tests\\ATS.Backend.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T19:12:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidatosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Controllers\\CandidatosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidatosController.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Controllers\\CandidatosController.cs",
+              "RelativeToolTip": "Controllers\\CandidatosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:36:01.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T21:27:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:14:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ATS.Backend.csproj",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj",
+              "RelativeDocumentMoniker": "ATS.Backend.csproj",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj",
+              "RelativeToolTip": "ATS.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T02:26:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ATS.Backend.http",
+              "DocumentMoniker": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.http",
+              "RelativeDocumentMoniker": "ATS.Backend.http",
+              "ToolTip": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.http",
+              "RelativeToolTip": "ATS.Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-15T23:15:04.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
