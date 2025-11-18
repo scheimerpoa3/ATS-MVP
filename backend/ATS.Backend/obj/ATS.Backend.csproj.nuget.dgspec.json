@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj": {}
+    "C:\\Proj\\ATS-MVP\\backend\\ATS.Backend\\ATS.Backend.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj": {
+    "C:\\Proj\\ATS-MVP\\backend\\ATS.Backend\\ATS.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj",
+        "projectUniqueName": "C:\\Proj\\ATS-MVP\\backend\\ATS.Backend\\ATS.Backend.csproj",
         "projectName": "ATS.Backend",
-        "projectPath": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\ATS.Backend.csproj",
+        "projectPath": "C:\\Proj\\ATS-MVP\\backend\\ATS.Backend\\ATS.Backend.csproj",
         "packagesPath": "C:\\Users\\schei\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ats-mvpTotvs\\backend\\ATS.Backend\\obj\\",
+        "outputPath": "C:\\Proj\\ATS-MVP\\backend\\ATS.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
